@@ -1,3 +1,0 @@
-let input = require("fs").readFileSync(0, "utf8");
-const line = input.trim(" ").split("\n")
-console.log(line.join("\n"));
